@@ -1,2 +1,2 @@
-# daily_code_challenges
-Daily code challenges inspired by LeetCode
+# code_challenges_and_tests
+Code challenges inspired by LeetCode
